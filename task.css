@@ -1,0 +1,305 @@
+body{
+
+background-color: black;
+margin-top: 40px;
+
+}
+.box{
+    text-align: center;
+
+}
+.boxbackground{
+    background-color: indianred;
+    height: 250px;
+    width: 400px; 
+    display: inline-block;
+    text-align: center;
+    padding: 50px;
+    margin-top: 40px;
+    margin-right: 30px;
+    border-radius: 8px;
+}
+.box1{
+    background-color: lightgoldenrodyellow;
+    height: 250px;
+    width: 400px; 
+    display: inline-block;
+    text-align: center;
+    padding: 50px;
+    margin-top: 40px;
+    margin-right: 30px;
+    border-radius: 8px;  
+}
+.button{
+    margin-top: 30px;
+    padding: 10px;
+    border-width: 0px;
+    color: antiquewhite;
+    border-radius: 30px;
+    background-color: black;
+    width: 150px;
+}
+.java{
+    background-color: aqua;
+    height: 250px;
+    width: 400px; 
+    display: inline-block;
+    text-align: center;
+    padding: 50px;
+    margin-top:40px;
+    border-radius: 8px;
+}
+.clang{
+    background-color: lightgray;
+    height: 250px;
+    width: 400px; 
+    display: inline-block;
+    text-align: center;
+    padding: 50px;
+    margin-top: 40px;
+    border-radius: 8px;
+}
+.boot{
+    background-color: darkolivegreen;
+    height: 250px;
+    width: 400px; 
+    display: inline-block;
+    text-align: center;
+    padding: 50px;
+    margin-top:40px;
+    border-radius: 8px;
+}
+.mbackground{
+    height: 200px;
+    width: 400px; 
+    display: inline-block;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom:30px;
+    margin-right: 20px;
+    border-radius: 8px;
+}
+.m1{
+    text-align: center;
+    margin-left: 30px;
+}
+.clang1{
+    background-color: darkslategray;
+}
+.chash{
+    background-color: dimgrey;
+}
+.m{
+    height: 200px;
+    width: 400px; 
+    display: inline-block;
+    text-align: center;
+    padding-top: 50px;
+    margin-top:40px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    border-radius: 8px;   
+}
+.r{
+    background-color: burlywood;
+}
+.p{
+    text-align: center;
+    margin-left: 30px;
+}
+.kotlin{
+    background-color: cornflowerblue;
+}
+.nodejs{
+    background-color: darkolivegreen;
+}
+.React{
+    background-color: darkseagreen;
+}
+.pbackground{
+
+    height: 100px;
+    width: 200px; 
+    display: inline-block;
+    text-align: center;
+    padding-top: 50px;
+    margin-top:40px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    border-radius: 8px;
+}
+.p1{
+    height: 100px;
+    width: 200px; 
+    display: inline-block;
+    text-align: center;
+    padding-top: 50px;
+    margin-top:40px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    border-radius: 8px;
+
+}
+.p2{
+
+    height: 100px;
+    width: 200px; 
+    display: inline-block;
+    text-align: center;
+    padding-top: 50px;
+    margin-top:40px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    border-radius: 8px;
+
+}
+.p3{
+
+    height: 100px;
+    width: 200px; 
+    display: inline-block;
+    text-align: center;
+    padding-top: 50px;
+    margin-top:40px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    border-radius: 8px;
+
+}
+r{
+    background-color: burlywood;
+}
+.p{
+    text-align: center;
+    margin-left: 30px;
+}
+.kotlin{
+    background-color: cornflowerblue;
+}
+.nodejs{
+    background-color: darkolivegreen;
+}
+.React{
+    background-color: darkseagreen;
+}
+.pbackground{
+
+    height: 100px;
+    width: 200px; 
+    display: inline-block;
+    text-align: center;
+    padding-top: 50px;
+    margin-top:40px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    border-radius: 8px;
+}
+.p1{
+    height: 100px;
+    width: 200px; 
+    display: inline-block;
+    text-align: center;
+    padding-top: 50px;
+    margin-top:40px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    border-radius: 8px;
+
+}
+.p2{
+
+    height: 100px;
+    width: 200px; 
+    display: inline-block;
+    text-align: center;
+    padding-top: 50px;
+    margin-top:40px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    border-radius: 8px;
+
+}
+.p3{
+
+    height: 100px;
+    width: 200px; 
+    display: inline-block;
+    text-align: center;
+    padding-top: 50px;
+    margin-top:40px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    border-radius: 8px;
+
+}
+p{
+    text-align: center;
+    margin-left: 30px;
+}
+.json{
+    background-color: coral;
+}
+.vue{
+    background-color: darkolivegreen;
+}
+.xml{
+    background-color: greenyellow;
+}
+.mysql{
+    background-color: antiquewhite;
+
+}
+p{
+    text-align: center;
+    margin-left: 30px;
+}
+.sass{
+    background-color: aqua;
+}
+.icons{
+    background-color: darkslategrey;
+}
+.RWD{
+    background-color: darkkhaki;
+}
+.graphics{
+    background-color: cornflowerblue;
+
+}
+p{
+    text-align: center;
+    margin-left: 30px;
+}
+.svg{
+    background-color: aquamarine;
+}
+.canvas{
+    background-color: brown;
+}
+.Raspberrypi{
+    background-color: lightcoral;
+}
+.cybersecurity{
+    background-color: darkseagreen;
+
+}
+p{
+    text-align: center;
+    margin-left: 30px;
+}
+.colors{
+    background-color: burlywood;
+}
+.Git{
+    background-color: darkgoldenrod;
+}
+.matplotlib{
+    background-color: dimgrey;
+}
+.NumPy{
+    background-color: limegreen;
+
+}
+
+
+
